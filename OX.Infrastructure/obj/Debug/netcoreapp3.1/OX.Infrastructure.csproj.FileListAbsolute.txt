@@ -1,0 +1,14 @@
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Infrastructure.deps.json
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Infrastructure.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Infrastructure.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Application.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Domain.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Application.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\bin\Debug\netcoreapp3.1\OX.Domain.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.AssemblyInfo.cs
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.csproj.CopyComplete
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Infrastructure\obj\Debug\netcoreapp3.1\OX.Infrastructure.pdb

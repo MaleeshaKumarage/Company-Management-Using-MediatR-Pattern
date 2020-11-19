@@ -1,0 +1,9 @@
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\bin\Debug\netcoreapp3.1\OX.Domain.deps.json
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\bin\Debug\netcoreapp3.1\OX.Domain.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\bin\Debug\netcoreapp3.1\OX.Domain.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\obj\Debug\netcoreapp3.1\OX.Domain.csprojAssemblyReference.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\obj\Debug\netcoreapp3.1\OX.Domain.AssemblyInfoInputs.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\obj\Debug\netcoreapp3.1\OX.Domain.AssemblyInfo.cs
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\obj\Debug\netcoreapp3.1\OX.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\obj\Debug\netcoreapp3.1\OX.Domain.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Domain\obj\Debug\netcoreapp3.1\OX.Domain.pdb

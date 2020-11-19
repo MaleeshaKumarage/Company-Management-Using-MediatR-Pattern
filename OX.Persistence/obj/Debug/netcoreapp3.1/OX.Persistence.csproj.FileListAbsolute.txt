@@ -1,0 +1,17 @@
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Persistence.deps.json
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Persistence.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.csprojAssemblyReference.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.AssemblyInfoInputs.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.AssemblyInfo.cs
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Domain.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Persistence.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Domain.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.csproj.CopyComplete
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.pdb
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Persistence.runtimeconfig.json
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Persistence.runtimeconfig.dev.json
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\obj\Debug\netcoreapp3.1\OX.Persistence.genruntimeconfig.cache
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Application.dll
+C:\Users\Maleesha\Source\Repos\OX.Test\OX.Persistence\bin\Debug\netcoreapp3.1\OX.Application.pdb
